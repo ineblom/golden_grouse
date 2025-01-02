@@ -39,8 +39,7 @@ static void app_init() {
   };
 
   app->sequencer.zoom = 250.0f;
-  app->sequencer.stride = 2.0f;
-  app->sequencer.pan = 8.0f;
+  app->sequencer.pan = -0.2f;
 
   app->sequencer.timeline_height = 80.0f;
   app->sequencer.lister_width = 160.0f;

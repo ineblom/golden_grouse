@@ -116,7 +116,6 @@ struct Sequencer {
   Sequencer_Theme theme;
   
   f32 zoom;
-  f32 stride;
   f32 pan;
 
   f32 timeline_height;
