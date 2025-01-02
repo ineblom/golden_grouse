@@ -1,3 +1,4 @@
+*.o
 videos/*
 golden_grouse
 imgui.ini
